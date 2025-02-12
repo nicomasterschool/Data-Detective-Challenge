@@ -1,6 +1,6 @@
 # 🕵️ Data Detective Challenge
 
-##🎉 **Du hast es geschafft!** 🎉  
+🎉 **Du hast es geschafft!** 🎉  
 
 🔎 Du hast den **Dieb und seine Komplizen** entlarvt! Jetzt ist es an der Zeit, den finalen Beweis zu liefern.  
 
